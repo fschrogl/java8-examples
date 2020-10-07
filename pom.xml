@@ -50,4 +50,13 @@
         </plugins>
     </build>
 
+    <licenses>
+        <license>
+            <name>GNU General Public License (GPL), Version 3.0</name>
+            <url>http://www.gnu.org/licenses/gpl-3.0-standalone.html</url>
+            <distribution>repo</distribution>
+            <comments>A Copyleft-license from GNU and FSF</comments>
+        </license>
+    </licenses>
+
 </project>
